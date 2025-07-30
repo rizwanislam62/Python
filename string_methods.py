@@ -7,4 +7,4 @@ print(course.__len__()) #print the  length
 
 print(course.replace("new learners", "Absolute beginners")) # replace the string
 
-print(course.find("o")) # find the character  in string 
+print(course.find("o")) # find the character in string 
